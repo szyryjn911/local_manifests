@@ -4,7 +4,8 @@
   <!-- Remotes -->
   <remote name="szyryjn911" fetch="https://github.com/szyryjn911" />
   <remote name="yaap" fetch="https://github.com/yaap" />
-
+  <remote name="crdroidandroid" fetch="https://github.com/crdroidandroid" />
+  
   <!-- Device Tree -->
   <project path="device/realme/RMX2020" name="android_device_realme_RMX2020" remote="szyryjn911" revision="Lunaris" />
 
@@ -12,10 +13,10 @@
   <project path="kernel/realme/RMX2020" name="android_kernel_realme_RMX2020" remote="szyryjn911" revision="16.0" />
 
   <!-- Vendor Tree -->
-  <project path="vendor/realme/RMX2020" name="proprietary_vendor_realme_rmx2020" remote="szyryjn911" revision="sixteen-qpr2" />
+  <project path="vendor/realme/RMX2020" name="proprietary_vendor_realme_rmx2020" remote="crdroidandroid" revision="16.0" />
 
   <!-- Vendor-IMS Tree -->
-  <project path="vendor/realme/RMX2020-ims" name="proprietary_vendor_realme_rmx2020-ims" remote="szyryjn911" revision="sixteen-qpr2" />
+  <project path="vendor/realme/RMX2020-ims" name="proprietary_vendor_realme_rmx2020-ims" remote="crdroidandroid" revision="16.0" />
   
   <!-- Hardware -->
   <project path="hardware/mediatek" name="hardware_mediatek" remote="yaap" revision="sixteen" />
