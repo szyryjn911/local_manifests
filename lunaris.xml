@@ -19,9 +19,9 @@
   <project path="vendor/realme/RMX2020-ims" name="proprietary_vendor_realme_rmx2020-ims" remote="crdroidandroid" revision="16.0" />
   
   <!-- Hardware -->
-  <project path="hardware/mediatek" name="hardware_mediatek" remote="yaap" revision="sixteen" />
+  <project path="hardware/mediatek" name="android_hardware_mediatek" remote="crdroidandroid" revision="16.0" />
 
   <!-- SEPOLICY_VNDR -->
-  <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="yaap" revision="sixteen" />
+  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="crdroidandroid" revision="16.0" />
 
 </manifest>
