@@ -13,10 +13,10 @@
   <project path="kernel/realme/RMX2020" name="android_kernel_realme_RMX2020" remote="szyryjn911" revision="16.0" />
 
   <!-- Vendor Tree -->
-  <project path="vendor/realme/RMX2020" name="proprietary_vendor_realme_rmx2020" remote="crdroidandroid" revision="16.0" />
+  <project path="vendor/realme/RMX2020" name="proprietary_vendor_realme_RMX2020" remote="crdroidandroid" revision="16.0" />
 
   <!-- Vendor-IMS Tree -->
-  <project path="vendor/realme/RMX2020-ims" name="proprietary_vendor_realme_rmx2020-ims" remote="crdroidandroid" revision="16.0" />
+  <project path="vendor/realme/RMX2020-ims" name="proprietary_vendor_realme_RMX2020-ims" remote="crdroidandroid" revision="16.0" />
   
   <!-- Hardware -->
   <project path="hardware/mediatek" name="android_hardware_mediatek" remote="crdroidandroid" revision="16.0" />
