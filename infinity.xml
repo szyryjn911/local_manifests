@@ -6,7 +6,7 @@
   <remote name="yaap" fetch="https://github.com/yaap" />
   
   <!-- Device Tree -->
-  <project path="device/realme/RMX2020" name="android_device_realme_RMX2020" remote="szyryjn911" revision="clover-17" />
+  <project path="device/realme/RMX2020" name="android_device_realme_RMX2020" remote="szyryjn911" revision="infinity-17" />
 
   <!-- Kernel Tree -->
   <project path="kernel/realme/RMX2020" name="android_kernel_realme_RMX2020" remote="szyryjn911" revision="17.0" />
