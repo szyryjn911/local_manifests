@@ -10,7 +10,7 @@
   <project path="device/realme/RMX2020" name="android_device_realme_RMX2020" remote="szyryjn911" revision="Lunaris" />
 
   <!-- Kernel Tree -->
-  <project path="kernel/realme/RMX2020" name="android_kernel_realme_RMX2020" remote="szyryjn911" revision="16.0" />
+  <project path="kernel/realme/RMX2020" name="android_kernel_realme_RMX2020" remote="szyryjn911" revision="17.0" />
 
   <!-- Vendor Tree -->
   <project path="vendor/realme/RMX2020" name="proprietary_vendor_realme_RMX2020" remote="crdroidandroid" revision="16.0" />
